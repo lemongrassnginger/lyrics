@@ -56,6 +56,7 @@
 </node>
 </node>
 <node CREATED="1468938573414" ID="ID_1128380662" MODIFIED="1468938576705" POSITION="left" TEXT="shortcuts">
+<node CREATED="1468938844930" ID="ID_760334471" LINK="https://github.com/lemongrassnginger/lyrics" MODIFIED="1468938867138" TEXT="github"/>
 <node CREATED="1468938577640" ID="ID_1416853031" MODIFIED="1468938578560" TEXT="git">
 <node CREATED="1468938579342" ID="ID_386736841" LINK="batshortcuts/git_push_lyrics.mm.bat" MODIFIED="1468938615452" TEXT="push lyrics.mm"/>
 </node>
