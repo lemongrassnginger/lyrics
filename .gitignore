@@ -1,2 +1,7 @@
 # shortcut folders
 batshortcuts/
+#jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
