@@ -93,6 +93,7 @@
 </node>
 </node>
 <node CREATED="1471251613626" ID="ID_1869485272" MODIFIED="1471251616564" POSITION="right" TEXT="extend to quotes?"/>
+<node CREATED="1471251832857" ID="ID_372506128" MODIFIED="1471251863275" POSITION="right" TEXT="you&apos;re essentially making a tool to revise learning words"/>
 <node CREATED="1468938573414" ID="ID_1128380662" MODIFIED="1471251702444" POSITION="left" TEXT="shortcuts">
 <node CREATED="1468938844930" ID="ID_760334471" LINK="https://github.com/lemongrassnginger/lyrics" MODIFIED="1468938867138" TEXT="github"/>
 <node CREATED="1468938577640" ID="ID_1416853031" MODIFIED="1471251703519" TEXT="git">
